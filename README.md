@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Fire Gallery
+**This Project is built using React for frontend and Firebase for backend** 
+
+## Code Output:
+[!React](firegallery1.png)
+[!React](firegallery2.png)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
