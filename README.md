@@ -2,8 +2,8 @@
 **This Project is built using React for frontend and Firebase for backend** 
 
 ## Code Output:
-[!React](firegallery1.png)
-[!React](firegallery2.png)
+[![Fire-Gallery](/firegallery1.png)]()
+[![Fire-Gallery](/firegallery2.png)]()
 
 
 ## Getting Started with Create React App
